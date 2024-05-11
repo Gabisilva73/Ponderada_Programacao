@@ -13,7 +13,7 @@
 
 <div align="center">
 <p>Figura 1 - Modelo conceitual do bando de dados</p>
-<img src="/assets/ModeloOFC.png">
+<img src="/assets/modeloOFC.png">
 <p>Fonte: Material Produzido pela Autora (2024)</p>
 </div>
 
@@ -32,7 +32,7 @@
 
 <div align="center">
 <p>Figura 2 - Modelo lógico do bando de dados</p>
-<img src="/assets/ModeloLogico.png">
+<img src="/assets/modeloLogico.png">
 <p>Fonte: Material Produzido pela Autora (2024)</p>
 </div>
 
